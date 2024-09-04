@@ -46,7 +46,7 @@ Fuente: [Plantillas de la Copa Mundial de la FIFA 2022](https://en.wikipedia.org
 
 ## Dashboard en Power BI
 
-Para hacerlo más ameno para la persona que visita este repositorio, evitando instalar Power BI en su computadora y descargar el archivo de Power BI, a continuación dejo el link para poder acceder al tablero en donde se va a poder interactuar con el mismo:
+Para hacerlo más ameno para la persona que visita este repositorio, evitando instalar Power BI en su computadora y descargar el archivo de Power BI, a continuación dejo el link para poder acceder al tablero en donde se va a poder interactuar con el mismo: [DASHBOARD_FIFA_WORLD_CUP_2022](https://app.powerbi.com/view?r=eyJrIjoiMTk4ODk5NGQtNDAzMS00OWE5LWJiNjAtZjNmMWQzMTc4N2JjIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9)
 
 ### Resumen por confederación
 
