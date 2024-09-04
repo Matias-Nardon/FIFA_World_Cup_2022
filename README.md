@@ -1,17 +1,17 @@
 ![Imagen](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO-1024x288.jpg)
 # FIFA World Cup 2022 Dashboard
 
-## Descripción general
+## 🎯Descripción general
 Este repositorio contiene un dashboard realizado en Power BI sobre el Mundial de la FIFA Qatar 2022. Incluye un análisis que se ejecutó con Jupyter Notebook en el que se realizó el procesamiento de datos con Python en el cual se pudo adaptar la información para obtener mejores conclusiones y información especifica que facilite la toma de decisiones.
 
-## Tech Stack
+## ⚙️Tech Stack
 - Power BI
 - DAX
 - Jupyter Notebook
 - Python library: Pandas
 - Excel
 
-## Data Sources
+## 📊Data Sources
 Para alimentar el dashboard se utilizaron 3 archivos:
 
 #### 1) **WorldCup2022.csv**
@@ -39,12 +39,12 @@ Este archivo contiene datos sobre los jugadores de cada equipo en el torneo, com
 
 Fuente: [Plantillas de la Copa Mundial de la FIFA 2022](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads)
 
-## Preparación de datos
+## 📶 Preparación de datos 
 
 - Para WorldCup2022.csv, las principales transformaciones se realizaron con Pandas y su explicación está en [ETL_FIFA_World_Cup_2022.ipynb](https://github.com/Matias-Nardon/FIFA_World_Cup_2022/blob/main/ETL_FIFA_WORLD_CUP_2022.ipynb)
 - Para Teams.csv y Squads.xlsx, dada la simplicidad de los datos, se procesaron en Microsoft Excel.
 
-## Dashboard en Power BI
+## 📊Dashboard en Power BI
 
 Para hacerlo más ameno para la persona que visita este repositorio, evitando instalar Power BI en su computadora y descargar el archivo de Power BI, a continuación dejo el link para poder acceder al tablero en donde se va a poder interactuar con el mismo: [DASHBOARD_FIFA_WORLD_CUP_2022](https://app.powerbi.com/view?r=eyJrIjoiMTk4ODk5NGQtNDAzMS00OWE5LWJiNjAtZjNmMWQzMTc4N2JjIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9)
 
