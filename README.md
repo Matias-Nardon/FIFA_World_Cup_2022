@@ -82,7 +82,7 @@ Algunos datos a destacar:
 
 https://github.com/user-attachments/assets/463d0f9f-406d-4bd3-a321-7af26137f089
 
-### Defensive and offensive efficiency
+### Eficiencia defensiva y ofensiva
 
 En esta visualización podemos ver un gráfico de cuadrantes, que muestra la eficiencia defensiva y ofensiva de cada equipo.
 
