@@ -59,7 +59,7 @@ Algunos datos a destacar:
 - **Barcelona**, **Bayern Múnich** y **Manchester City** son los equipos que más jugadores aportan al torneo con 17, 16 y 16 respectivamente.
 - En cuanto a la distribución por edad, podemos observar que la mayoría de jugadores tienen entre 24 y 30 años.
 
-https://github.com/julianmancuello/FIFA_World_Cup_2022/assets/162643807/39fc5d66-c42a-4ad0-acb1-8d23626197e2
+https://github.com/user-attachments/assets/7cf00670-94e6-4b4a-b37d-c9dae8708289
 
 ### Resumen por equipo
 
@@ -80,7 +80,7 @@ Algunos datos a destacar:
 - Su propia liga tiene una importante aportación de jugadores al equipo con 7.
 - Tiene un valor de mercado de 1.154M€, uno de los más altos del torneo.
 
-https://github.com/julianmancuello/FIFA_World_Cup_2022/assets/162643807/8a61b09b-24c7-4517-afc1-8c9f3cd64d93
+https://github.com/user-attachments/assets/463d0f9f-406d-4bd3-a321-7af26137f089
 
 ### Defensive and offensive efficiency
 
@@ -100,4 +100,4 @@ Algunos insights a destacar:
 - Las grandes decepciones del torneo fueron **Alemania** y **Bélgica**, quienes si bien tuvieron un alto promedio de pases completados, mostrando un buen control del balón y la fluidez del juego, debido a su baja eficacia defensiva y ofensiva no lograron pasar de la fase de grupos.
 - **México** es un caso atípico, con casi un 70% de eficacia defensiva y una eficacia ofensiva cercana a la media, no logró pasar de la fase de grupos. La contraparte es **Polonia**, con quien compartió el grupo C, que tuvo una de las peores eficacias defensivas y ofensivas del torneo pero aun así logró pasar de la fase de grupos. - **Costa Rica** y **Camerún** también son casos atípicos, se puede apreciar una alta eficiencia ofensiva pero si nos fijamos en los pases completados podemos ver que estos fueron muy bajos (no se aprecia en el vídeo), por lo que podemos concluir que estos equipos tuvieron poco el balón, llegando apenas al arco rival, pero en las ocasiones que patearon, los remates fueron al arco.
 
-https://github.com/julianmancuello/Copa_Mundial_FIFA_2022/assets/162643807/08f402f6-6377-43d6-9605-19e0ac6b6b65
+https://github.com/user-attachments/assets/defe74df-d1c2-4c35-8945-334ae9af6442
